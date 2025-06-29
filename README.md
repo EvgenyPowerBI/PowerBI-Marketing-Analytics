@@ -1,30 +1,32 @@
-# Sales Funnel and Channel Efficiency (Power BI) / Воронка продаж и эффективность каналов
+# Marketing Campaign Spend Analysis (Power BI Dashboard) / Анализ рекламного бюджета
 
 ---
 
 ## 🇬🇧 English
 
 🔍 **Project Overview**  
-This Power BI dashboard visualizes the full sales funnel: from initial lead to closed deal, including average conversion time per channel and deal values.
+This project explores how different advertising channels impact revenue. It simulates marketing budget distribution across Internet, Outdoor, TV, Radio, and more — and evaluates ROI (Return on Investment) per channel using Power BI.
 
 📁 **Project Structure**  
-- Power BI .pbix report  
-- CRM-style mock data  
-- DAX measures and Drill-through pages  
+- Power BI .pbix file  
+- Budget data in Excel  
+- Calculated measures in DAX  
+- Data cleanup via Power Query  
 
-📊 **Dashboard Features**  
-- Funnel: Leads → Deals  
-- Conversion rate & average time to close  
-- Revenue by source  
-- Drill-through and filters by channel
+📊 **Key Features**  
+- Revenue and Net Profit by channel  
+- Interactive filters  
+- ROI analysis and custom category sorting  
+- Data model with relationships and date hierarchy
 
 🛠️ **Tools Used**  
 - Power BI Desktop  
-- DAX  
 - Power Query  
+- DAX  
+- Excel
 
 🎯 **Value Delivered**  
-Helps marketing and sales identify most effective channels, bottlenecks in conversion, and optimize lead handling.
+Clear visibility of marketing efficiency across all channels. Business can reallocate budget to high-ROI channels and cut underperforming ones.
 
 👨‍💼 **Author**  
 Evgeny Kharyanov  
@@ -35,28 +37,29 @@ Evgeny Kharyanov
 ## 🇷🇺 Русский
 
 🔍 **Описание проекта**  
-Дашборд Power BI отображает воронку продаж: от лида до сделки, с расчётом среднего времени закрытия и выручки по каналам.
+Проект показывает, как различные рекламные каналы влияют на выручку. На примере распределения бюджета по Интернету, ТВ, радио и наружной рекламе рассчитывается ROI по каждому каналу в Power BI.
 
 📁 **Структура проекта**  
 - Файл Power BI (.pbix)  
-- Имитированные CRM-данные  
-- DAX-формулы, Drill-through страницы  
+- Бюджет в Excel  
+- DAX-вычисления  
+- Очистка данных через Power Query  
 
 📊 **Функции дашборда**  
-- Воронка: Лиды → Сделки  
-- Конверсия и среднее время закрытия  
-- Выручка по источнику  
-- Drill-through и фильтрация по каналам
+- Выручка и прибыль по каналам  
+- Интерактивные фильтры  
+- Расчёт ROI и сортировка по категориям  
+- Модель данных с отношениями и иерархией дат
 
 🛠️ **Инструменты**  
 - Power BI Desktop  
-- DAX  
 - Power Query  
+- DAX  
+- Excel
 
 🎯 **Ценность**  
-Позволяет оценить эффективность каналов, выявить слабые места в обработке лидов и улучшить процесс продаж.
+Дашборд наглядно показывает эффективность рекламы. Руководство может перераспределить бюджет в пользу прибыльных каналов и отказаться от убыточных.
 
 👨‍💼 **Автор**  
 Евгений Харьянов  
 [GitHub портфолио](https://github.com/EvgenyPowerBI)
-
